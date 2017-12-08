@@ -1,0 +1,2 @@
+# majasegovia
+mywebportfolio
